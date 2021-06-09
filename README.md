@@ -16,8 +16,9 @@ My name is Dinh Lam Dang and I'm a 5th year computer engineer at York University
          OhNoMyKing - Chess game with a chess engine - Java with Maven
          CAT-language (hiatus) - TypeScript inspired programming language - C 
 <div align="center">
-![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamseyD&hide=contribs,issues&show_icons=true&theme=react&count_private=true&custom_title=Lam's%20Github%20Stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamseyD&hide=Lua&langs_count=3&theme=react&layout=compact)
+   
+![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamseyD&hide=contribs,issues&show_icons=true&theme=react&count_private=true&custom_title=Lam's%20Github%20Stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamseyD&hide=Lua&langs_count=3&theme=react&layout=compact)
+   
 </div>
 
 
