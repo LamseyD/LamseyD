@@ -7,6 +7,7 @@
 
 <img alt="Instagram" src="https://img.shields.io/badge/lamseyd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/><img alt="YouTube" src="https://img.shields.io/badge/Lamsey-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </div>
+
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr))">
   
   <div>
