@@ -10,12 +10,12 @@
 
 My name is Dinh Lam Dang and I'm a 5th year computer engineer at York University in Toronto, ON. I'm currently working at BlackBerry QNX as a Operating System software developer. In my free time, I primarily use TypeScript/JavaScript with ReactJS, React Native and Next.JS.
 
-My hobbies: Chess, baseball, video games, beers
+A few of my hobbies: Chess :crown:, Baseball :baseball:, Video Games :video_game:, Beers :beer:
 
 Current projects
-* Beer-Me - Beer recipe lookup page - NextJS and TailwindCSS
-* OhNoMyKing - Chess game with a chess engine - Java with Maven
-* CAT-language (hiatus) - TypeScript inspired programming language - C 
+* Beer-Me :beer: - Beer recipe lookup page - NextJS and TailwindCSS
+* OhNoMyKing :crown: - Chess game with a chess engine - Java with Maven
+* CAT-language (hiatus) :cat: - TypeScript inspired programming language - C 
 
 ***
 
