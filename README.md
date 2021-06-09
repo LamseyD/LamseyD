@@ -27,7 +27,7 @@ Current projects
 
 *** 
 <div align="center"> 
-   <h2> :point_down: Check out my pinned projects below! :point_down: </h2>
+   <h1> :point_down: Check out my pinned projects below! :point_down: </h2>
 
 </div>   
 <!--
