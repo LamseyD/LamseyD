@@ -25,7 +25,9 @@ Current projects
    
 </div>
 
+*** 
 
+## :point_down: Check out my pinned projects below! :point_down:
 <!--
 **LamseyD/LamseyD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
