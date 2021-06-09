@@ -8,24 +8,18 @@
 <img alt="Instagram" src="https://img.shields.io/badge/lamseyd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/><img alt="YouTube" src="https://img.shields.io/badge/Lamsey-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
 </div>
 
-| My name is Dinh Lam Dang and I'm a 5th year computer engineer at York University in Toronto, ON. I'm currently working at BlackBerry QNX as a Operating System software developer. In my free time, I primarily use TypeScript/JavaScript with ReactJS, React Native and Next.JS.
+My name is Dinh Lam Dang and I'm a 5th year computer engineer at York University in Toronto, ON. I'm currently working at BlackBerry QNX as a Operating System software developer. In my free time, I primarily use TypeScript/JavaScript with ReactJS, React Native and Next.JS.
    My hobbies: Chess, baseball, video games, beers 
         Current projects
  
          Beer-Me - Beer recipe lookup page - NextJS and TailwindCSS
          OhNoMyKing - Chess game with a chess engine - Java with Maven
-         CAT-language (hiatus) - TypeScript inspired programming language - C | ![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamseyD&hide=contribs,issues&show_icons=true&theme=react&count_private=true&custom_title=Lam's%20Github%20Stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamseyD&hide=Lua&langs_count=3&theme=react&layout=compact) |
-| --- | --- |
-
-<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr))">
-  
-  
-  <div align="right">
-      
-
-  </div>
-  
+         CAT-language (hiatus) - TypeScript inspired programming language - C 
+<div align="center">
+![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamseyD&hide=contribs,issues&show_icons=true&theme=react&count_private=true&custom_title=Lam's%20Github%20Stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamseyD&hide=Lua&langs_count=3&theme=react&layout=compact)
 </div>
+
 
 <!--
 **LamseyD/LamseyD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
