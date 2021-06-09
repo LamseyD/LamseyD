@@ -9,7 +9,22 @@
 </div>
 
 <div>
-
+  <p>
+    My name is Dinh Lam Dang and I'm a 5th year computer engineer at York University in Toronto, ON. I'm currently working at BlackBerry QNX as a Operating System software developer. In my free time, I primarily use TypeScript/JavaScript with ReactJS, React Native and Next.JS.
+  </p>
+  <p>
+    My hobbies: Chess, baseball, video games, beers 
+  </p>
+  <div>
+    <p>
+      Current projects
+    </p>
+    <ul>
+      <li> Beer-Me - Beer recipe lookup page - NextJS and TailwindCSS
+      <li> OhNoMyKing - Chess game with a chess engine - Java with Maven
+      <li> CAT-language (hiatus) - TypeScript inspired programming language - C 
+    </ul>
+  </div>
 </div>
 
 <div align="right">
