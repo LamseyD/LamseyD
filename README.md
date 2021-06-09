@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamseyD&hide=contribs,prs,issues&show_icons=true&theme=radical))
+![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamseyD&hide=contribs,issues&show_icons=true&theme=radical&count_private=true))
 
 
 <!--
