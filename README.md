@@ -25,6 +25,15 @@ Current projects
 </div>
 
 *** 
+
+<div align="center">
+   
+   ![Trophy Case](https://github-profile-trophy.vercel.app/?username=LamseyD&theme=nord&title=MultiLanguage,Commit,Repositories,Stars)
+   
+</div>
+
+***
+
 <div align="center"> 
    <h1> :point_down: Check out my pinned projects below! :point_down: </h2>
 
