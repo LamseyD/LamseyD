@@ -28,7 +28,7 @@ Current projects
 
 <div align="center">
    
-   ![Trophy Case](https://github-profile-trophy.vercel.app/?username=LamseyD&theme=nord&title=MultiLanguage,Commit,Repositories,Stars)
+   ![Trophy Case](https://github-profile-trophy.vercel.app/?username=LamseyD&theme=nord&title=MultiLanguage,Commit,Repositories,Stars&column=4)
    
 </div>
 
