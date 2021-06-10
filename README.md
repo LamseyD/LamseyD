@@ -22,12 +22,6 @@ Current projects
    
 ![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamseyD&hide=contribs,issues&show_icons=true&theme=react&count_private=true&custom_title=Lam's%20Github%20Stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamseyD&hide=Lua&langs_count=4&theme=react&layout=compact)
    
-</div>
-
-*** 
-
-<div align="center">
-   
    ![Trophy Case](https://github-profile-trophy.vercel.app/?username=LamseyD&theme=nord&title=MultiLanguage,Commit,Repositories,Stars&column=4)
    
 </div>
