@@ -15,7 +15,7 @@ A few of my hobbies: Chess :crown:, Baseball :baseball:, Airplanes 🛩️, Vide
 * Beer-Me :beer: - Beer recipe lookup page - NextJS and TailwindCSS
 * OhNoMyKing :crown: - Chess game with a chess engine - Java with Maven
 * CAT-language (hiatus) :cat: - TypeScript inspired programming language - C 
-* Learning - <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> 
+* Learning - SASS/SCSS, JEST, Docker
 
 ***
 
