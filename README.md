@@ -15,7 +15,7 @@ A few of my hobbies: Chess :crown:, Baseball :baseball:, Airplanes 🛩️, Vide
 * Beer-Me :beer: - Beer recipe lookup page - NextJS and TailwindCSS
 * OhNoMyKing :crown: - Chess game with a chess engine - Java with Maven
 * CAT-language (hiatus) :cat: - TypeScript inspired programming language - C 
-* Learning - SASS/SCSS, JEST, Docker
+* Learning :book: - SASS/SCSS, JEST, Docker
 
 ***
 
