@@ -7,9 +7,14 @@
 <a href="https://www.instagram.com/lamseyd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/lamseyd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://linkedin.com/in/dinhlam" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.youtube.com/channel/UCa3ptXTVF6OB5R7VaVREZLw" target="_blank"> <img alt="YouTube" src="https://img.shields.io/badge/Lamsey-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> </a> <a href="https://lamsey.medium.com/" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/> </a>
 </div>
 
-My name is Dinh Lam Dang and I'm a 5th year computer engineer at York University in Toronto, ON.
+I'm a soon-to-be computer engineer/software developer based in Toronto, ON.
 
-A few of my hobbies: Chess :crown:, Poker :black_joker:, Baseball :baseball:, Airplanes 🛩️, Video Games :video_game:, Beers :beer:
+#### Trivia
+* Hobbies: Chess :crown:, Poker :black_joker:, Baseball :baseball:, Airplanes 🛩️, Video Games :video_game:, Beers :beer:
+* Music: Anything tbh. Current fav productivity: KSHMR, Tiesto, Don Diablo
+* Food: Chicken wings and tiramisus.
+* Drinks: Belgian moon - Belgian white beer and San Pellegrino flavored sparkling water.
+* Favorite show: How I met your mother.
 
 #### Current projects
 * Beer-Me :beer: - Beer recipe lookup page - NextJS and TailwindCSS
