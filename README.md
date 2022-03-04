@@ -6,20 +6,16 @@
 ***
 <a href="https://www.instagram.com/lamseyd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/lamseyd-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://linkedin.com/in/dinhlam" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.youtube.com/channel/UCa3ptXTVF6OB5R7VaVREZLw" target="_blank"> <img alt="YouTube" src="https://img.shields.io/badge/Lamsey-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/> </a> <a href="https://lamsey.medium.com/" target="_blank"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/> </a>
 </div>
-Software developer at Bell Canada, Computer Engineer, York University Grad, based in Toronto, ON.
+Fullstack software developer at Bell Canada, Computer Engineer, York University Grad, based in Toronto, ON. Prev @ BlackBerry QNX.
 
 #### Trivia
 * Hobbies: Chess :crown:, Poker :black_joker:, Baseball :baseball:, Airplanes 🛩️, Video Games :video_game:, Beers :beer:
-* Music: Anything tbh. Current fav productivity: KSHMR, Tiesto, Don Diablo
-* Food: Chicken wings and tiramisus.
-* Drinks: Belgian moon - Belgian white beer and San Pellegrino flavored sparkling water.
+* Music: Anything tbh. Current fav for productivity: KSHMR, Tiesto, Don Diablo
 * Favorite show: How I met your mother.
+* Favorite movie: The Departed (2006)
 
 #### Current projects
-* Beer-Me :beer: - Beer recipe lookup page - NextJS and TailwindCSS
-* OhNoMyKing :crown: - Chess game with a chess engine - Java with Maven
-* CAT-language (hiatus) :cat: - TypeScript inspired programming language - C 
-* Learning :book: - SASS/SCSS, JEST, Docker, MobX and Recoil.js
+* Learning :book: - GoLang
 
 ***
 
