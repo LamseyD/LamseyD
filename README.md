@@ -8,15 +8,6 @@
 </div>
 Fullstack software developer at Bell Canada, Computer Engineer, York University Grad, based in Toronto, ON. Prev @ BlackBerry QNX.
 
-#### Trivia
-* Hobbies: Chess :crown:, Poker :black_joker:, Baseball :baseball:, Airplanes 🛩️, Video Games :video_game:, Beers :beer:
-* Music: Anything tbh. Current fav for productivity: KSHMR, Tiesto, Don Diablo
-* Favorite show: How I met your mother.
-* Favorite movie: The Departed (2006)
-
-#### Current projects
-* Learning :book: - GoLang
-
 ***
 
 <div align="center">
